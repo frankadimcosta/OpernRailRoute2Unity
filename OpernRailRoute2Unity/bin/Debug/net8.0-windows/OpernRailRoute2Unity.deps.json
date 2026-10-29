@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OpernRailRoute2Unity/1.0.0": {
+        "dependencies": {
+          "MonoGame.Framework": "3.8.0.1641",
+          "ORTS.Common": "0.0.9789.16168",
+          "Orts.Formats.Msts": "0.0.9789.16170",
+          "ORTS.IO": "0.0.9789.16168",
+          "Orts.Parsers.Msts": "0.0.9789.16168"
+        },
+        "runtime": {
+          "OpernRailRoute2Unity.dll": {}
+        }
+      },
+      "MonoGame.Framework/3.8.0.1641": {
+        "runtime": {
+          "MonoGame.Framework.dll": {
+            "assemblyVersion": "3.8.0.1641",
+            "fileVersion": "3.8.0.1641"
+          }
+        }
+      },
+      "ORTS.Common/0.0.9789.16168": {
+        "runtime": {
+          "ORTS.Common.dll": {
+            "assemblyVersion": "0.0.9789.16168",
+            "fileVersion": "0.0.9789.16168"
+          }
+        }
+      },
+      "Orts.Formats.Msts/0.0.9789.16170": {
+        "runtime": {
+          "Orts.Formats.Msts.dll": {
+            "assemblyVersion": "0.0.9789.16170",
+            "fileVersion": "0.0.9789.16170"
+          }
+        }
+      },
+      "ORTS.IO/0.0.9789.16168": {
+        "runtime": {
+          "ORTS.IO.dll": {
+            "assemblyVersion": "0.0.9789.16168",
+            "fileVersion": "0.0.9789.16168"
+          }
+        }
+      },
+      "Orts.Parsers.Msts/0.0.9789.16168": {
+        "runtime": {
+          "Orts.Parsers.Msts.dll": {
+            "assemblyVersion": "0.0.9789.16168",
+            "fileVersion": "0.0.9789.16168"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpernRailRoute2Unity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonoGame.Framework/3.8.0.1641": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ORTS.Common/0.0.9789.16168": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Orts.Formats.Msts/0.0.9789.16170": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ORTS.IO/0.0.9789.16168": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Orts.Parsers.Msts/0.0.9789.16168": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
